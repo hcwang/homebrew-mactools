@@ -1,6 +1,6 @@
 cask "pinshot" do
-  version "1.0.0"
-  sha256 "fdd0a5047b5a193d9852891d341156c2a827fab6337c27c9b19e30c1cfa7b7bf"
+  version "1.0.1"
+  sha256 "d165e235f30e8d00ae224ba4adddb037967f367251d811236e7708040bf52f46"
 
   url "https://github.com/hcwang/homebrew-mactools/releases/download/pinshot-v#{version}/PinShot-#{version}.zip"
   name "PinShot"
